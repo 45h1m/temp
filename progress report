@@ -20,4 +20,5 @@ Task done today -
 Task done today -
   -  Refactor CSV import/export components to support multiple item types, enhance modal handling, and improve UI interactions
   -  Git work flow dicussion
-  -  
+  -  Refactor CSV export functionality to improve file handling, enhance error management, and streamline download process.
+  -  Handling csv/xls content response and downloading 
