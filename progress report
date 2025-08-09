@@ -16,3 +16,8 @@ Task done today -
   -  Added CSVUploadInstructions to guide users on CSV import.
   -  Created FadeTable component for displaying CSV data with a fade effect.
   -  Updated Jobs component to integrate new import/export functionality.
+
+Task done today -
+  -  Refactor CSV import/export components to support multiple item types, enhance modal handling, and improve UI interactions
+  -  Git work flow dicussion
+  -  
