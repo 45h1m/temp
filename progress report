@@ -23,4 +23,4 @@ Task done today -
   -  Refactor CSV export functionality to improve file handling, enhance error management, and streamline download process.
   -  Handling csv/xls content response and downloading 
   -  Add permission handling for CSV export/import actions and update CSV template generation with item type support
-  -  
+  -  Implement job import functionality with file validation and progress tracking
