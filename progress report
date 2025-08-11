@@ -24,3 +24,10 @@ Task done today -
   -  Handling csv/xls content response and downloading 
   -  Add permission handling for CSV export/import actions and update CSV template generation with item type support
   -  Implement job import functionality with file validation and progress tracking
+
+Task done today - 
+  -  Enhance CustomTooltip component with click trigger support and dynamic content rendering
+  -  Update candidate export functionality to use the correct endpoint and filename format
+  -  Enhance CSV import/export functionality with loading indicators, improved error handling, and new export endpoint for candidates
+  -  Email template design discussions
+  -  Todo UI improvement - collaborators tooltip fix
